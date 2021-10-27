@@ -1,2 +1,25 @@
 <html>
 </html>
+
+  <div class="intro-service">
+           <div class="service-text">
+               <h1 class="line">Services</h1>
+               <p>WE WORK WITH YOU, NOT FOR YOU</p>
+           </div>
+           <div class="box">
+            <i class="fas fa-bookmark"></i>
+            <h2>Digital Strategy</h2>
+            &#8594;
+           </div>
+           <div class="box">
+            <i class="fas fa-file-alt"></i>
+            <h2>UX Design</h2>
+            &#8594;
+           </div>
+           
+           <div class="box">
+            <i class="fas fa-edit"></i>
+            <h2>UX Design</h2>
+            &#8594;
+
+           </div>
